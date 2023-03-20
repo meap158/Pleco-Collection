@@ -52,7 +52,7 @@ ___
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 
-Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
+Tên từ điển | Tên gọi tắt | Phiên bản | Số từ | Miêu tả
 | :--- | :--- | :--- | :--- | :---
 [Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | OVD-Dict  | v1 | 157,844 | Tử điển Trung Việt
 [Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet)  | SVC-Dict  | v1 | 5,018 | Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất
