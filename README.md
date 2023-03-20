@@ -29,14 +29,13 @@ Full Name | Short Name | Version | Words | Description
   
   ### CD-Dict v3 (238,925 words)
 
-  Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters:
+  Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters
   
   <img src="https://user-images.githubusercontent.com/14327094/226435608-82ded4eb-79f0-439d-85f8-1906e8639aef.PNG" width="200" />
-  
   ___
   ### ML-Dict v2 (238,925 words)
 
-  Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean:
+  Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean
   
   <img src="https://user-images.githubusercontent.com/14327094/226435690-0277b87b-7838-4981-90e3-159b181161c8.PNG" width="200" />
 
