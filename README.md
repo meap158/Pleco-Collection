@@ -33,6 +33,7 @@ Full Name | Short Name | Version | Words | Description
   
   <img src="https://user-images.githubusercontent.com/14327094/226435608-82ded4eb-79f0-439d-85f8-1906e8639aef.PNG" width="200" />
   ___
+
   ### ML-Dict v2 (238,925 words)
 
   Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean
