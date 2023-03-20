@@ -86,3 +86,5 @@ Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
+## Credits
+- [chinese-hanviet-cognates](https://github.com/ryanphung/chinese-hanviet-cognates) - for providing the data source for the dictionary files used in SVC-Dict and SV1-Dict.
