@@ -61,7 +61,7 @@ Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
 <details>
   <summary>Screenshots</summary>
   
-  ### OVD-Dict v1 (157,844 tử)
+  ### OVD-Dict v1 (157,844 từ)
 
   Tử điển Trung Việt
   
@@ -69,7 +69,7 @@ Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
   
   ___
 
-  ### SVC-Dict v1 (5,018 tử)
+  ### SVC-Dict v1 (5,018 từ)
 
   Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất
   
@@ -77,7 +77,7 @@ Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
   
   ___
 
-  ### SV1-Dict v2 (11,411 tử)
+  ### SV1-Dict v2 (11,411 từ)
 
   Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm
   
