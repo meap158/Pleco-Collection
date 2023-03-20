@@ -54,7 +54,7 @@ ___
 
 Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
 | :--- | :--- | :--- | :--- | :---
-[Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | OVD-Dict  | v1 | 157,844 | Tử điền Trung Việt
+[Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | OVD-Dict  | v1 | 157,844 | Tử điển Trung Việt
 [Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet)  | SVC-Dict  | v1 | 5,018 | Tử điển Hán-Việt
 [Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2)  | SV1-Dict  | v2 | 11,411 | Từ điển Phiên âm Hán-Việt + cách phát âm
 
@@ -63,7 +63,7 @@ Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
   
   ### OVD-Dict v1 (157,844 tử)
 
-  Tử điền Trung Việt
+  Tử điển Trung Việt
   
   <img src="https://user-images.githubusercontent.com/14327094/226453319-344afd55-aff1-4fe9-ba61-863fafbd631c.PNG" width="200" />
   
