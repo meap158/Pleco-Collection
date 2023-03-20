@@ -10,4 +10,4 @@ To install a user dictionary in Pleco, you can follow these steps:
 
 3. Tap “Add Existing”. Select your user dictionary database file.
 
-In order to enable the ability to import user dictionaries, you must already have bought the flashcards feature in Pleco.
+Note: In order to enable the ability to import user dictionaries, you must already have bought the flashcards feature in Pleco.
