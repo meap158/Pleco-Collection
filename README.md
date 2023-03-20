@@ -1,7 +1,7 @@
 # Pleco-Collection
 A collection of User Dictionaries and other useful resources for Pleco (the Chinese dictionary app)
 
-### How to install (11,411 words):
+### How to install
 To install a user dictionary in Pleco, you can follow these steps:
 
 1. Copy the user dictionary’s database file (.pqb) to your device’s storage.
