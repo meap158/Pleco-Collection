@@ -54,8 +54,8 @@ ___
 
 Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 | :--- | :--- | :--- | :--- | :---
-[Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | Tử điển Trung Việt | OVD-Dict  | v1 | 157,844
-[Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet) | Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất| SVC-Dict  | v1 | 5,018
+[Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | Từ điển Trung Việt | OVD-Dict  | v1 | 157,844
+[Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet) | Từ điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất| SVC-Dict  | v1 | 5,018
 [Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2) | Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm| SV1-Dict  | v2 | 11,411
 
 <details>
@@ -63,7 +63,7 @@ Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
   
   ### OVD-Dict v1 (157,844 từ)
 
-  Tử điển Trung Việt
+  Từ điển Trung Việt
   
   <img src="https://user-images.githubusercontent.com/14327094/226453319-344afd55-aff1-4fe9-ba61-863fafbd631c.PNG" width="200" />
   
@@ -71,7 +71,7 @@ Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 
   ### SVC-Dict v1 (5,018 từ)
 
-  Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất
+  Từ điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất
   
   <img src="https://user-images.githubusercontent.com/14327094/226453348-2e23a628-3ecf-484b-bcdd-d4cd74d9352f.PNG" width="200" />
   
