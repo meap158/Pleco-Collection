@@ -27,8 +27,6 @@ Full Name | Short Name | Words | Version | Description
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 
-
-
 ## How to install
 To install a user dictionary in Pleco, you can follow these steps:
 
