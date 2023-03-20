@@ -19,10 +19,10 @@ To install a user dictionary in Pleco, you can follow these steps:
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 
-Full Name | Short Name | Version | Words | Description
+Full Name | Description | Short Name | Version | Words
 | :--- | :--- | :--- | :--- | :---
-[Chinese Character Dictionary](https://bit.ly/Pleco_CD-Dict-v3) | CD-Dict  | v3 | 238,925 | Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters
-[Chinese Multilingual Dictionary](https://bit.ly/Pleco_ML-Dict-v2)  | ML-Dict  | v2 | 238,925 | Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean
+[Chinese Character Dictionary](https://bit.ly/Pleco_CD-Dict-v3) | Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters | CD-Dict  | v3 | 238,925
+[Chinese Multilingual Dictionary](https://bit.ly/Pleco_ML-Dict-v2) | Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean  | ML-Dict  | v2 | 238,925
 
 <details>
   <summary>Screenshots</summary>
@@ -52,11 +52,11 @@ ___
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 
-Tên từ điển | Tên gọi tắt | Phiên bản | Số từ | Miêu tả
+Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 | :--- | :--- | :--- | :--- | :---
-[Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | OVD-Dict  | v1 | 157,844 | Tử điển Trung Việt
-[Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet)  | SVC-Dict  | v1 | 5,018 | Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất
-[Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2)  | SV1-Dict  | v2 | 11,411 | Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm
+[Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | Tử điển Trung Việt | OVD-Dict  | v1 | 157,844
+[Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet) | Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất| SVC-Dict  | v1 | 5,018
+[Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2) | Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm| SV1-Dict  | v2 | 11,411
 
 <details>
   <summary>Ảnh chụp (Screenshots)</summary>
