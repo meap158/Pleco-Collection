@@ -10,8 +10,8 @@ A collection of User Dictionaries and other useful resources for Pleco (the Chin
 
 Full Name | Short Name | Words | Version | Description
 | :--- | :--- | :--- | :--- | :---
-Chinese Character Dictionary  | CD-Dict  | 238,925 | v3 | Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters
-Chinese Multilingual Dictionary  | ML-Dict  | 238,925 | v2 | Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean
+[Chinese Character Dictionary](https://bit.ly/Pleco_CD-Dict-v3) | CD-Dict  | 238,925 | v3 | Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters
+[Chinese Multilingual Dictionary](https://bit.ly/Pleco_ML-Dict-v2)  | ML-Dict  | 238,925 | v2 | Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean
 
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
