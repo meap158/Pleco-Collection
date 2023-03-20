@@ -89,7 +89,7 @@ Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 ## Credits
 - [hanziDB.org](http://hanzidb.org/) - for providing the data source for the dictionary files used in CD-Dict.
 - [unihan-database](https://github.com/unicode-org/unihan-database) - for providing the data source for the dictionary files used in CD-Dict.
-- [Google Translate](https://translate.google.com/) - for enabling the translation to multiple languages of the data used in ML-Dict.
+- [Google Translate](https://translate.google.com/) - for enabling the translation to multiple languages of the dictionary files used in ML-Dict.
 
 - [Open Vietnamese Dictionary Project](https://sourceforge.net/projects/ovdp/files/Stardict/Chinese/) - for providing the data source for the dictionary files used in OVD-Dict.
 - [chinese-hanviet-cognates](https://github.com/ryanphung/chinese-hanviet-cognates) - for providing the data source for the dictionary files used in SVC-Dict and SV1-Dict.
