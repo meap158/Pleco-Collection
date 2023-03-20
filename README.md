@@ -55,8 +55,8 @@ ___
 Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
 | :--- | :--- | :--- | :--- | :---
 [Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | OVD-Dict  | v1 | 157,844 | Tử điển Trung Việt
-[Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet)  | SVC-Dict  | v1 | 5,018 | Tử điển Hán-Việt
-[Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2)  | SV1-Dict  | v2 | 11,411 | Từ điển Phiên âm Hán-Việt + cách phát âm
+[Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet)  | SVC-Dict  | v1 | 5,018 | Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất
+[Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2)  | SV1-Dict  | v2 | 11,411 | Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm
 
 <details>
   <summary>Screenshots</summary>
@@ -71,7 +71,7 @@ Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
 
   ### SVC-Dict v1 (5,018 tử)
 
-  Tử điển Hán-Việt
+  Tử điển Hán-Việt bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất
   
   <img src="https://user-images.githubusercontent.com/14327094/226453348-2e23a628-3ecf-484b-bcdd-d4cd74d9352f.PNG" width="200" />
   
@@ -79,7 +79,7 @@ Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
 
   ### SV1-Dict v2 (11,411 tử)
 
-  Từ điển Phiên âm Hán-Việt + cách phát âm
+  Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm
   
   <img src="https://user-images.githubusercontent.com/14327094/226453376-56c0a2e8-961c-43c1-988d-d7f9590943a4.PNG" width="200" />
 </details>
