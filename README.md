@@ -59,7 +59,7 @@ Tên từ điển | Tên gọi tắt | Phiên bản | Số tử | Miêu tả
 [Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2)  | SV1-Dict  | v2 | 11,411 | Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm
 
 <details>
-  <summary>Screenshots</summary>
+  <summary>Ảnh chụp (Screenshots)</summary>
   
   ### OVD-Dict v1 (157,844 từ)
 
