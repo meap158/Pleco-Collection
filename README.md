@@ -54,12 +54,21 @@ ___
 
 Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 | :--- | :--- | :--- | :--- | :---
+[Chinese Multilingual Dictionary](https://bit.ly/Pleco-MLV-Dict-v2) | Từ điển dịch từ tiếng Trung sang đa ngôn ngữ bao gồm: Anh, Nhật, Việt, Pháp, Nga, Tây Ban Nha, Hàn và đặc biệt có cả phiên âm Hán-Việt | MLV-Dict  | v2 | 238,925
 [Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | Từ điển Trung Việt | OVD-Dict  | v1 | 157,844
 [Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet) | Từ điển từ mượn Hán-Việt [2 âm tiết] bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất| SVC-Dict  | v1 | 5,018
 [Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2) | Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm| SV1-Dict  | v2 | 11,411
 
 <details>
   <summary>Ảnh chụp (Screenshots)</summary>
+  
+  ### MLV-Dict v2 (238,925 từ)
+
+  Từ điển dịch từ tiếng Trung sang đa ngôn ngữ bao gồm: Anh, Nhật, Việt, Pháp, Nga, Tây Ban Nha, Hàn và đặc biệt có cả phiên âm Hán-Việt
+  
+  <img src="https://user-images.githubusercontent.com/14327094/226502177-3cf6793a-6d37-44c2-8461-7475b22f2f59.PNG" width="200" />
+  
+  ___
   
   ### OVD-Dict v1 (157,844 từ)
 
@@ -89,7 +98,8 @@ Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 ## Credits
 - [hanziDB.org](http://hanzidb.org/) - for providing the data source for the dictionary files used in CD-Dict.
 - [unihan-database](https://github.com/unicode-org/unihan-database) - for providing the data source for the dictionary files used in CD-Dict.
-- [Google Translate](https://translate.google.com/) - for enabling the translation to multiple languages of the dictionary files used in ML-Dict.
+- [Google Translate](https://translate.google.com/) - for enabling the translation to multiple languages of the dictionary files used in ML-Dict and MLV-Dict.
 
 - [Open Vietnamese Dictionary Project](https://sourceforge.net/projects/ovdp/files/Stardict/Chinese/) - for providing the data source for the dictionary files used in OVD-Dict.
-- [chinese-hanviet-cognates](https://github.com/ryanphung/chinese-hanviet-cognates) - for providing the data source for the dictionary files used in SVC-Dict and SV1-Dict.
+- [chinese-hanviet-cognates](https://github.com/ryanphung/chinese-hanviet-cognates) - for providing the data source for the dictionary files used in SVC-Dict and SV1-Dict and MLV-Dict.
+
