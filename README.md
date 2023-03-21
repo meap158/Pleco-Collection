@@ -1,7 +1,9 @@
 # Pleco-Collection
 A collection of User Dictionaries and other useful resources for Pleco (the Chinese dictionary app)
 
-## How to install
+## User Dictionaries
+
+### How to install
 To install a user dictionary in Pleco, you can follow these steps:
 
 1. Copy the user dictionary’s database file (.pqb) to your device’s storage.
@@ -11,8 +13,7 @@ To install a user dictionary in Pleco, you can follow these steps:
 3. Tap “Add Existing”. Select your user dictionary database file.
 
 **Note**: In order to enable the ability to import user dictionaries, you must already have bought the flashcards feature in Pleco.
-
-## User Dictionaries
+___
 
 ### English
 
@@ -95,6 +96,8 @@ Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
+___
+
 ## Credits
 - [hanziDB.org](http://hanzidb.org/) - for providing the data source for the dictionary files used in CD-Dict.
 - [unihan-database](https://github.com/unicode-org/unihan-database) - for providing the data source for the dictionary files used in CD-Dict.
