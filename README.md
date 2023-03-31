@@ -22,13 +22,13 @@ ___
 
 Full Name | Description | Short Name | Version | Words
 | :--- | :--- | :--- | :--- | :---
-[Chinese Character Dictionary](https://bit.ly/Pleco_CD-Dict-v3) | Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters | CD-Dict  | v3 | 238,925
-[Chinese Multilingual Dictionary](https://bit.ly/Pleco_ML-Dict-v2) | Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean  | ML-Dict  | v2 | 238,925
+[Chinese Character Dictionary](https://bit.ly/Pleco-CD-Dict-v4) | Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters | CD-Dict  | v4 | 286,898
+[Chinese Multilingual Dictionary](https://bit.ly/Pleco-ML-Dict-v3) | Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean  | ML-Dict  | v3 | 286,898
 
 <details>
   <summary>Screenshots</summary>
   
-  ### CD-Dict v3 (238,925 words)
+  ### CD-Dict v4 (286,898 words)
 
   Definitions, radicals, stroke counts, HSK levels, General Standard#, and frequency ranks for 9,933 characters
   
@@ -36,7 +36,7 @@ Full Name | Description | Short Name | Version | Words
   
   ___
 
-  ### ML-Dict v2 (238,925 words)
+  ### ML-Dict v3 (286,898 words)
 
   Translated to the following languages: English, Japanese, Vietnamese, French, Russian, Spanish, and Korean
   
@@ -55,7 +55,7 @@ ___
 
 Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 | :--- | :--- | :--- | :--- | :---
-[Chinese Multilingual Dictionary](https://bit.ly/Pleco-MLV-Dict-v2) | Từ điển dịch từ tiếng Trung sang đa ngôn ngữ bao gồm: Anh, Nhật, Việt, Pháp, Nga, Tây Ban Nha, Hàn và đặc biệt có cả phiên âm Hán-Việt | MLV-Dict  | v2 | 238,925
+[Chinese Multilingual Dictionary](https://bit.ly/Pleco-MLV-Dict-v3) | Từ điển dịch từ tiếng Trung sang đa ngôn ngữ bao gồm: Anh, Nhật, Việt, Pháp, Nga, Tây Ban Nha, Hàn và đặc biệt có cả phiên âm Hán-Việt | MLV-Dict  | v3 | 286,898
 [Open Vietnamese Dictionary Project Dictionary](https://bit.ly/PlecoTrungViet) | Từ điển Trung Việt | OVD-Dict  | v1 | 157,844
 [Modern Sino-Vietnamese (Han-Viet) Cognates Dictionary](https://bit.ly/PlecoHanViet) | Từ điển từ mượn Hán-Việt [2 âm tiết] bao gồm giản thể, phồn thể, nghĩa, xếp hạng, tần suất| SVC-Dict  | v1 | 5,018
 [Sino-Vietnamese (Han-Viet) Monosyllabic Morphemes Dictionary](https://bit.ly/PlecoPhienAmV2) | Từ điển Phiên âm [đơn âm] Hán-Việt và cách phát âm| SV1-Dict  | v2 | 11,411
@@ -63,7 +63,7 @@ Tên từ điển | Miêu tả | Tên gọi tắt | Phiên bản | Số từ
 <details>
   <summary>Ảnh chụp (Screenshots)</summary>
   
-  ### MLV-Dict v2 (238,925 từ)
+  ### MLV-Dict v3 (286,898 từ)
 
   Từ điển dịch từ tiếng Trung sang đa ngôn ngữ bao gồm: Anh, Nhật, Việt, Pháp, Nga, Tây Ban Nha, Hàn và đặc biệt có cả phiên âm Hán-Việt
   
@@ -105,3 +105,5 @@ ___
 
 - [Open Vietnamese Dictionary Project](https://sourceforge.net/projects/ovdp/files/Stardict/Chinese/) - for providing the data source for the dictionary files used in OVD-Dict.
 - [chinese-hanviet-cognates](https://github.com/ryanphung/chinese-hanviet-cognates) - for providing the data source for the dictionary files used in SVC-Dict, SV1-Dict, and MLV-Dict.
+- [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cedict) - for providing the data source for the dictionary files used in CD-Dict, ML-Dict, and MLV-Dict.
+- [CFDICT](https://chine.in/mandarin/dictionnaire/CFDICT/) - for providing the data source for the dictionary files used in CD-Dict, ML-Dict, and MLV-Dict.
