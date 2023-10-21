@@ -1,6 +1,8 @@
 # Pleco-Collection
 A collection of User Dictionaries and other useful resources for Pleco (the Chinese dictionary app)
 
+<img src="https://user-images.githubusercontent.com/14327094/226435608-82ded4eb-79f0-439d-85f8-1906e8639aef.PNG" width="200" />
+  
 ## User Dictionaries
 
 ### How to install
